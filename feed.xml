@@ -3,10 +3,30 @@
     <title>psychosomatic.co.za</title>
     <link href="https://www.psychosomatic.co.za/feed.xml" rel="self" />
     <link href="https://www.psychosomatic.co.za" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2025-02-18T20:46:13+02:00</updated>
     <author>
         <name>Fabien Beller</name>
     </author>
     <id>https://www.psychosomatic.co.za</id>
 
+    <entry>
+        <title>Testing</title>
+        <author>
+            <name>Fabien Beller</name>
+        </author>
+        <link href="https://www.psychosomatic.co.za/posts/testing/"/>
+        <id>https://www.psychosomatic.co.za/posts/testing/</id>
+
+        <updated>2025-02-18T20:46:13+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Test post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test post</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
