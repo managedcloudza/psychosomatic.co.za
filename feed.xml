@@ -3,29 +3,34 @@
     <title>psychosomatic.co.za</title>
     <link href="https://www.psychosomatic.co.za/feed.xml" rel="self" />
     <link href="https://www.psychosomatic.co.za" />
-    <updated>2025-02-18T20:46:13+02:00</updated>
+    <updated>2025-02-18T21:21:01+02:00</updated>
     <author>
-        <name>Fabien Beller</name>
+        <name>Dr. Jules S Greenstein</name>
     </author>
     <id>https://www.psychosomatic.co.za</id>
 
     <entry>
-        <title>Testing</title>
+        <title>Psycho-(ˈsaɪ koʊ) So·mat·ic-(s-mtk)</title>
         <author>
-            <name>Fabien Beller</name>
+            <name>Dr. Jules S Greenstein</name>
         </author>
         <link href="https://www.psychosomatic.co.za/posts/testing/"/>
         <id>https://www.psychosomatic.co.za/posts/testing/</id>
+        <media:content url="https://www.psychosomatic.co.za/media/posts/14/psycho-somatic-home-page-xl.webp" medium="image" />
 
         <updated>2025-02-18T20:46:13+02:00</updated>
             <summary>
                 <![CDATA[
-                    Test post
+                        <img src="https://www.psychosomatic.co.za/media/posts/14/psycho-somatic-home-page-xl.webp" alt="" />
+                    This is where psychology meets metaphysics to create a holistic approach to well-being. Our practice is rooted in the principles&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Test post</p>
+                    <p><img src="https://www.psychosomatic.co.za/media/posts/14/psycho-somatic-home-page-xl.webp" class="type:primaryImage" alt="" /></p>
+                <p data-pm-slice="0 0 []">This is where psychology meets metaphysics to create a holistic approach to well-being. Our practice is rooted in the principles of psychosomatic metaphysics, focusing on the profound connection between the mind, body, and spirit. We believe that mental and emotional states can deeply influence physical health and that addressing these interconnected aspects is key to lasting healing and personal growth.</p>
+<p data-pm-slice="0 0 []">Through evidence-based psychological practices combined with metaphysical insights, we offer a unique path to self-discovery, emotional balance, and physical wellness. Whether you’re navigating stress, seeking deeper self-awareness, or striving for a harmonious life, our approach integrates therapeutic techniques with a broader understanding of how thought, emotion, and energy shape your reality.</p>
+<p data-pm-slice="0 0 []">Let us guide you on a transformative journey toward aligning your inner world with your outer experience, empowering you to thrive in all aspects of life</p>
             ]]>
         </content>
     </entry>
