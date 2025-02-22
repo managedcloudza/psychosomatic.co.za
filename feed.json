@@ -10,5 +10,19 @@
         "name": "Dr. Jules S Greenstein"
     },
     "items": [
+        {
+            "id": "https://www.psychosomatic.co.za/posts/see-the-light/",
+            "url": "https://www.psychosomatic.co.za/posts/see-the-light/",
+            "title": "See the light",
+            "summary": "Pearls of wisdom that I discovered in the oyster shells collected by wise people and given to me. I shall&hellip;",
+            "content_html": "<p>Pearls of wisdom that I discovered in the oyster shells collected by wise people and given to me.</p>\n<p>I shall be posting these gathered pearls of wisdom on my blog on my website so as to share with you and thus inspire you.</p>\n<p>Please take time to peruse my website and should you require any further assistance, please consult the options on the menu. Albeit PTSD, relationship and Intimacy issues, academic improvement or Sports performance management, we've got this. See the light.</p>",
+            "author": {
+                "name": "Dr. Jules S Greenstein"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-22T13:11:33+02:00",
+            "date_modified": "2025-02-22T13:11:33+02:00"
+        }
     ]
 }
